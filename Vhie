@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS Text Portrait Effects</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css">
+      body{
+      max-width; 1920px;
+      max-height: 500px;
+      font-family: arial;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0px;
+      background-color: #262626;
+      }
+      p{
+      font-size: 13px;
+      line-height: 10px;
+      text-align: justify;
+      background:url(k.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      -webkit-background-clip:text;
+      background-attachment: fixed;
+      -webkit-text-fill-color:rgba(255,255,255,0);
+      }
+    </style>
+  </head>
+  <body>
+    <p>Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyoWag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo Wag ka nang matakot, 'wag kang mangamba Andito ako 'pag ika'y mag-isa Wala akong takas sa nakakalunod mong ganda, ha Halika nga (ha, ha, ha) Tingnan mo lang ang aking mga mata Wag kang titingin na sa iba Akin ka na, wala nang iba (ha, ha, ha) Andito 'ko hanggang sa 'ting pagtanda Mamahalin kita basta't pag nahulog Nakahawak ako, 'wag ka lang bibitaw Habang-buhay na ako'y iyo
+      </p>
+  </body>
+</html>
